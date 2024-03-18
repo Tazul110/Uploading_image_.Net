@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "k7MBGpjV3nfO9f65R78J9nSvbfB0aqr7gcB+9ZI4Zuc=",
+  "Source": "uploading_image",
+  "BasePath": "_content/uploading_image",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "uploading_image\\wwwroot",
+      "Source": "uploading_image",
+      "ContentRoot": "C:\\Users\\TN-99345\\Desktop\\Upload_image_project\\uploading_image\\uploading_image\\wwwroot\\",
+      "BasePath": "_content/uploading_image",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
