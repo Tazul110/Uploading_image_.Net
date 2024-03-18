@@ -31,3 +31,4 @@ C:\Users\TN-99345\Desktop\Upload_image_project\uploading_image\uploading_image\o
 C:\Users\TN-99345\Desktop\Upload_image_project\uploading_image\uploading_image\obj\Debug\net8.0\uploading_image.genruntimeconfig.cache
 C:\Users\TN-99345\Desktop\Upload_image_project\uploading_image\uploading_image\obj\Debug\net8.0\ref\uploading_image.dll
 C:\Users\TN-99345\Desktop\Upload_image_project\uploading_image\uploading_image\bin\Debug\net8.0\uploading_image.staticwebassets.runtime.json
+C:\Users\TN-99345\Desktop\Upload_image_project\uploading_image\uploading_image\obj\Debug\net8.0\uploading_image.sourcelink.json
