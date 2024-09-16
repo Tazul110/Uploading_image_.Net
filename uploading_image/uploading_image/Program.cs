@@ -16,6 +16,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//have to extra added this must.
 app.UseStaticFiles();
 
 app.UseHttpsRedirection();

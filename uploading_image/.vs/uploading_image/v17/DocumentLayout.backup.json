@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88CC27F-FC11-45A4-B305-9F85C6497D3B}|uploading_image\\uploading_image.csproj|c:\\users\\tazul islam\\downloads\\uploading_image_.net-main\\uploading_image_.net\\uploading_image\\uploading_image\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88CC27F-FC11-45A4-B305-9F85C6497D3B}|uploading_image\\uploading_image.csproj|solutionrelative:uploading_image\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88CC27F-FC11-45A4-B305-9F85C6497D3B}|uploading_image\\uploading_image.csproj|c:\\users\\tazul islam\\downloads\\uploading_image_.net-main\\uploading_image_.net\\uploading_image\\uploading_image\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88CC27F-FC11-45A4-B305-9F85C6497D3B}|uploading_image\\uploading_image.csproj|solutionrelative:uploading_image\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88CC27F-FC11-45A4-B305-9F85C6497D3B}|uploading_image\\uploading_image.csproj|c:\\users\\tazul islam\\downloads\\uploading_image_.net-main\\uploading_image_.net\\uploading_image\\uploading_image\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88CC27F-FC11-45A4-B305-9F85C6497D3B}|uploading_image\\uploading_image.csproj|solutionrelative:uploading_image\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88CC27F-FC11-45A4-B305-9F85C6497D3B}|uploading_image\\uploading_image.csproj|c:\\users\\tazul islam\\downloads\\uploading_image_.net-main\\uploading_image_.net\\uploading_image\\uploading_image\\models\\apiresponseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88CC27F-FC11-45A4-B305-9F85C6497D3B}|uploading_image\\uploading_image.csproj|solutionrelative:uploading_image\\models\\apiresponseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\uploading_image\\models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "uploading_image\\models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\uploading_image\\models\\ApiResponse.cs",
+              "RelativeToolTip": "uploading_image\\models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:04:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\uploading_image\\Program.cs",
+              "RelativeDocumentMoniker": "uploading_image\\Program.cs",
+              "ToolTip": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\uploading_image\\Program.cs",
+              "RelativeToolTip": "uploading_image\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:04:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIResponseFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\uploading_image\\models\\APIResponseFormat.cs",
+              "RelativeDocumentMoniker": "uploading_image\\models\\APIResponseFormat.cs",
+              "ToolTip": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\uploading_image\\models\\APIResponseFormat.cs",
+              "RelativeToolTip": "uploading_image\\models\\APIResponseFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:04:46.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\uploading_image\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "uploading_image\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Tazul Islam\\Downloads\\uploading_image_.Net-main\\uploading_image_.Net\\uploading_image\\uploading_image\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "uploading_image\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:04:46.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
